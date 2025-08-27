@@ -6,13 +6,13 @@ I'm currently focused on expanding my skills and putting them into practice on n
 
 ---
 
-#### 🛠️ Technologies & Tools
+#### 🛠️ Coding Languages & Tools
 
-Here are the tools and technologies I use:
+Here are the tools and coding languages I'm learning and use:
 
 | Category     | Technologies & Tools                                   |
 | :---         | :---                                                   |
-| **Languages** | HTML, CSS, Python, Java, Ballerina                                    |
+| **Languages** | HTML, CSS, Python, Java, Ballerina, Java Script                                    |
 | **IDEs** | VS Code, Eclipse, NetBeans, Spyder, Anaconda           |
 
 ---
