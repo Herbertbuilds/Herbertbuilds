@@ -10,7 +10,7 @@ I'm currently focused on expanding my skills and putting them into practice on n
 
 Here are the tools and coding languages I'm learning and use:
 
-| Category     | Technologies & Tools                                   |
+| Category     | Languages & Tools                                   |
 | :---         | :---                                                   |
 | **Languages** | HTML, CSS, Python, Java, Ballerina, Java Script                                    |
 | **IDEs** | VS Code, Eclipse, NetBeans, Spyder, Anaconda           |
