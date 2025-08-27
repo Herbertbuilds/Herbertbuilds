@@ -12,7 +12,7 @@ Here are the tools and technologies I use:
 
 | Category     | Technologies & Tools                                   |
 | :---         | :---                                                   |
-| **Languages** | HTML, CSS, Python, Java                                    |
+| **Languages** | HTML, CSS, Python, Java, Ballerina                                    |
 | **IDEs** | VS Code, Eclipse, NetBeans, Spyder, Anaconda           |
 
 ---
