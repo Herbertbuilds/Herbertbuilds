@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm Herbert! 👋
 
-<!--
-**Herbertbuilds/Herbertbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring developer with a passion for building cool things with code. I'm a student athlete who plays volleyball for my university, which has taught me a lot about **discipline, time management, and effective teamwork.**
 
-Here are some ideas to get you started:
+I'm currently focused on expanding my skills and putting them into practice on new projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Technologies & Tools
+
+Here are the tools and technologies I use:
+
+| Category     | Technologies & Tools                                   |
+| :---         | :---                                                   |
+| **Languages** | HTML, CSS, Python, Java                                    |
+| **IDEs** | VS Code, Eclipse, NetBeans, Spyder, Anaconda           |
+
+---
+
+#### 🔭 Check Out My Work
+
+- **My Portfolio:** [https://herbertbuilds.github.io](https://herbertbuilds.github.io)
+
+---
+
+#### 📫 Let's Connect!
+
+- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **Email:** herbertbuilds@gmail.com
+
+---
