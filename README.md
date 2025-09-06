@@ -19,7 +19,7 @@ Here are the tools and coding languages I'm learning and use:
 
 #### 🔭 Check Out My Work
 
-- **My Portfolio:** [https://herbertbuilds.github.io](https://herbertbuilds.github.io/HerbertsProfile.github.io/)
+- **My Portfolio:** [https://herbertbuilds.github.io](https://herbertbuilds.github.io/)
 
 ---
 
