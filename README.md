@@ -25,8 +25,8 @@ Here are the tools and coding languages I'm learning and use:
 
 #### 📫 Let's Connect!
 
-- **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Herbert Jantjies](https://www.linkedin.com/in/your-profile)
 - **Email:** herbertbuilds@gmail.com
-- **Gram:** [https://www.instagram.com/your-profile](https://www.instagram.com/y.k.y_herbert)
+- **Gram:** [y.k.y_herbert](https://www.instagram.com/y.k.y_herbert)
 
 ---
