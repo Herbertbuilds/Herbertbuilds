@@ -17,6 +17,16 @@ Here are the tools and coding languages I'm learning and use:
 
 ---
 
+#### 🐧 My Linux Journey
+I enjoy optimizing software for performance and have explored various lightweight distributions:
+- **Current OS:** ![MX Linux](https://img.shields.io/badge/MX_Linux-white?style=flat-square&logo=linux&logoColor=black) (My choice for stability and speed)
+- **Distros Explored:**
+  - 🟢 **Linux Mint Cinnamon** & **Lubuntu** (Desktop usability)
+  - 🔵 **Zorin OS Lite** & **Bodhi Linux** (Efficient UI design)
+  - 🔴 **antiX** & **Fluxbox** (Extreme performance & low-resource management)
+
+---
+
 #### 📈 Current Progress
 - **Learning:** Completing Harvard's CS50P (Currently on Unit Tests 🧪)
 - **Tracking:** [View my Daily Dev Journal](JOURNAL.md)
@@ -30,7 +40,7 @@ Here are the tools and coding languages I'm learning and use:
 
 #### 📫 Let's Connect!
 
-- **LinkedIn:** [Herbert Jantjies](https://www.linkedin.com/in/your-profile)
+- **LinkedIn:** [Herbert Jantjies](https://www.linkedin.com/in/https://www.linkedin.com/in/herbert-jantjies-78a47026a/)
 - **Email:** herbertbuilds@gmail.com
 - **Gram:** [y.k.y_herbert](https://www.instagram.com/y.k.y_herbert)
 
