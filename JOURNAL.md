@@ -1,4 +1,4 @@
-# 🚀 Dev Journal
+#  Dev Journal
 
 ### Jan 2026
 - [x] Updated GitHub Profile README.
