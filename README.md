@@ -17,6 +17,11 @@ Here are the tools and coding languages I'm learning and use:
 
 ---
 
+#### 📈 Current Progress
+- **Learning:** Completing Harvard's CS50P (Currently on Unit Tests 🧪)
+- **Tracking:** [View my Daily Dev Journal](JOURNAL.md)
+- **Goal:** Landing a Software Dev Internship for 2026
+
 #### 🔭 Check Out My Work
 
 - **My Portfolio:** [https://herbertbuilds.github.io](https://herbertbuilds.github.io/)
