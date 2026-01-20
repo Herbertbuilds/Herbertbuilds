@@ -13,7 +13,7 @@ Here are the tools and coding languages I'm learning and use:
 | Category     | Languages & Tools                                   |
 | :---         | :---                                                   |
 | **Languages** | HTML, CSS, Python, Java, Ballerina, Java Script                                    |
-| **IDEs** | VS Code, Eclipse, NetBeans, Spyder, Anaconda           |
+| **IDEs** | VS Code, Eclipse, NetBeans, Anaconda           |
 
 ---
 
