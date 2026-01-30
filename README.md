@@ -42,6 +42,5 @@ I enjoy optimizing software for performance and have explored various lightweigh
 
 - **LinkedIn:** [Herbert Jantjies](https://www.linkedin.com/in/https://www.linkedin.com/in/herbert-jantjies-78a47026a/)
 - **Email:** herbertbuilds@gmail.com
-- **Gram:** [y.k.y_herbert](https://www.instagram.com/y.k.y_herbert)
 
 ---
