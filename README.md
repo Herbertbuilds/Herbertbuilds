@@ -1,46 +1,34 @@
-### Hi there, I'm Herbert! 👋
+# 👋 Hi, I'm Herbert
 
-I'm an aspiring developer with a passion for building cool things with code. I'm a student athlete who plays volleyball for my university, which has taught me a lot about **discipline, time management, and effective teamwork.**
+**Student Athlete | Aspiring Software Developer | Linux Enthusiast | CS50P Grad🎓**
 
-I'm currently focused on expanding my skills and putting them into practice on new projects.
-
----
-
-#### 🛠️ Coding Languages & Tools
-
-Here are the tools and coding languages I'm learning and use:
-
-| Category     | Languages & Tools                                   |
-| :---         | :---                                                   |
-| **Languages** | HTML, CSS, Python, Java, Ballerina, Java Script                                    |
-| **IDEs** | VS Code, Eclipse, NetBeans, Anaconda           |
+I am currently a 3rd year student studying Computer Science(Major: Software Dev.) at **Namibian University of Science and Technology**
 
 ---
 
-#### 🐧 My Linux Journey
-I enjoy optimizing software for performance and have explored various lightweight distributions:
-- **Current OS:** ![MX Linux](https://img.shields.io/badge/MX_Linux-white?style=flat-square&logo=linux&logoColor=black) (My choice for stability and speed)
-- **Distros Explored:**
-  - 🟢 **Linux Mint Cinnamon** & **Lubuntu** (Desktop usability)
-  - 🔵 **Zorin OS Lite** & **Bodhi Linux** (Efficient UI design)
-  - 🔴 **antiX** & **Fluxbox** (Extreme performance & low-resource management)
+### 🛠️ Tech Stack
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/MX_Linux-white?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
 
 #### 📈 Current Progress
-- **Learning:** Completed Harvard(CS50P)
-- **Tracking:** [View my Daily Dev Journal](JOURNAL.md)
-- **Goal:** Landing a Software Dev Internship for 2026
-
-#### 🔭 Check Out My Work
-
-- **My Portfolio:** [https://herbertbuilds.github.io](https://herbertbuilds.github.io/)
+* **Learning:** CS50X(Progress can be seen in my journal) 
+* **Focus:** Learning & Building solutions using coding techniques I learn.
+* **IDEs:** VS Code, Eclipse, NetBeans.
 
 ---
 
-#### 📫 Let's Connect!
+### 🚀 Quick Links
 
-- **LinkedIn:** [Herbert Jantjies](https://www.linkedin.com/in/https://www.linkedin.com/in/herbert-jantjies-78a47026a/)
-- **Email:** herbertbuilds@gmail.com
+* **🌐 Portfolio:** [herbertbuilds.github.io](https://herbertbuilds.github.io/)
+* **📝 Journal:** [Daily Dev Log](JOURNAL.md)
+* **🤝 Connect:** [LinkedIn](https://www.linkedin.com/in/herbert-jantjies-78a47026a/) | [Email](mailto:herbertbuilds@gmail.com)
 
 ---
