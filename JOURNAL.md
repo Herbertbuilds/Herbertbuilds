@@ -6,4 +6,4 @@
 - [x] Completed CS50P Problem Set 6 (File I/O).
 - [x] Completed CS50P Problem Set 7 (Regular Expressions).
 - [x] Completed CS50P Problem Set 8 (OOP).
-- [x] Reach Final Project.
+- [x] Completed Final Project.
