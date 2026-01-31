@@ -26,4 +26,10 @@
 ##Sub task
 - [x] Push CS50P Final Project
 - [x] Add README
-- [ ] Improve On The Submited Program
+- [ ] Add Features For v1.1.0
+
+
+##Sub task 2
+- [ ] Add A README To Personal Portfolio
+- [ ] Update Personal Porfolio
+- [ ] Pin Repository
