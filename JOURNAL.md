@@ -7,3 +7,23 @@
 - [x] Completed CS50P Problem Set 7 (Regular Expressions).
 - [x] Completed CS50P Problem Set 8 (OOP).
 - [x] Completed Final Project.
+
+### Feb 2026
+- [x] Update Github Profile
+- [x] Reached CS50X Problem set 0 (Scratch).
+- [ ] Complete CS50X Problem set 1 (C).
+- [ ] Complete CS50X Problem set 2 (Arrays).
+- [ ] Complete CS50X Problem set 3 (Algorithms).
+- [ ] Complete CS50X Problem set 4 (Memory).
+- [ ] Complete CS50X Problem set 5 (Data Structures).
+- [ ] Complete CS50X Problem set 6 (Python).
+- [ ] Complete CS50X Problem set 7 (SQL).
+- [ ] Complete CS50X Problem set  (AI).
+- [ ] Complete CS50X Problem set 8 (HTML,CSS,Java Script).
+- [ ] Complete CS50X Problem set 9 (Flask).
+- [ ] Complete CS50X Problem set 10 (End).
+
+##Sub task
+- [ ] Push CS50P Final Project
+- [ ] Add README
+- [ ] Improve On The Submited Program
