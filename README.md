@@ -2,7 +2,7 @@
 
 **Student Athlete | Aspiring Software Developer | Linux Enthusiast | CS50P Grad🎓**
 
-I am currently a 3rd year student studying Computer Science(Major: Software Dev.) at **Namibian University of Science and Technology**
+I am currently a 3rd year student studying Computer Science(Major: Software Dev.) at **Namibian University of Science and Technology**, Interested in all things Python and Software Development.
 
 ---
 
