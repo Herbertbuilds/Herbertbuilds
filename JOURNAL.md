@@ -24,6 +24,6 @@
 - [ ] Complete CS50X Problem set 10 (End).
 
 ##Sub task
-- [ ] Push CS50P Final Project
-- [ ] Add README
+- [x] Push CS50P Final Project
+- [x] Add README
 - [ ] Improve On The Submited Program
