@@ -28,7 +28,7 @@ I enjoy optimizing software for performance and have explored various lightweigh
 ---
 
 #### 📈 Current Progress
-- **Learning:** Completing Harvard's CS50P (Currently on Unit Tests 🧪)
+- **Learning:** Completed Harvard(CS50P)
 - **Tracking:** [View my Daily Dev Journal](JOURNAL.md)
 - **Goal:** Landing a Software Dev Internship for 2026
 
