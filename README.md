@@ -31,6 +31,8 @@ I am a 3rd-year Computer Science student at the Namibian University of Science a
 * **📝 Journal:** [Daily Dev Log](JOURNAL.md)
 * **🤝 Connect:** [LinkedIn](https://www.linkedin.com/in/herbert-jantjies-78a47026a/) | [Email](mailto:herbertbuilds@gmail.com)
 
+#
+
 <details>
 <summary><b>🏅 Beyond the Code: Life as a Student-Athlete</b></summary>
 <br>
