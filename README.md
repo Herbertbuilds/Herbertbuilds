@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Herbert
 
-**Student Athlete | Aspiring Software Developer | Linux Enthusiast | CS50P Grad🎓**
+**🏃‍♂️Student Athlete | Aspiring Software Developer | Linux Enthusiast | CS50P Graduate🎓**
 
-I am currently a 3rd year student studying Computer Science(Major: Software Dev.) at **Namibian University of Science and Technology**, Interested in all things Python and Software Development.
+I am a 3rd-year Computer Science student at the Namibian University of Science and Technology, specializing in Software Development. As a Linux enthusiast (currently rocking MX Linux), I spend my time mastering Python and building efficient, scalable software.
 
 ---
 
@@ -31,4 +31,13 @@ I am currently a 3rd year student studying Computer Science(Major: Software Dev.
 * **📝 Journal:** [Daily Dev Log](JOURNAL.md)
 * **🤝 Connect:** [LinkedIn](https://www.linkedin.com/in/herbert-jantjies-78a47026a/) | [Email](mailto:herbertbuilds@gmail.com)
 
----
+<details>
+<summary><b>🏅 Beyond the Code: Life as a Student-Athlete</b></summary>
+<br>
+
+Balancing **Volleyball**, 3rd-year CS studies, and online courses like **CS50** requires high level time management. I apply the same discipline, from the persistent training that keeps me in the starting lineup to the strategic thinking required on the court, to how I debug code and architect software. I believe there are always multiple ways to solve a problem, and I strive to find the most efficient one.
+
+* **Volleyball:** Teaches me communication and performing under pressure.
+* **Academics:** Sharpens my logic and technical foundation.
+* **Self-Learning:** Demonstrates my drive to stay current in the tech world.
+</details>
