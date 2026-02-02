@@ -10,8 +10,8 @@
 
 ### Feb 2026
 - [x] Update Github Profile
-- [x] Reached CS50X Problem set 0 (Scratch).
-- [ ] Complete CS50X Problem set 1 (C).
+- [x] Completed CS50X Problem set 0 (Scratch).
+- [x] Reached CS50X Problem set 1 (C).
 - [ ] Complete CS50X Problem set 2 (Arrays).
 - [ ] Complete CS50X Problem set 3 (Algorithms).
 - [ ] Complete CS50X Problem set 4 (Memory).
@@ -30,6 +30,6 @@
 
 
 ##Sub task 2
-- [ ] Add A README To Personal Portfolio
-- [ ] Update Personal Porfolio
-- [ ] Pin Repository
+- [x] Add A README To Personal Portfolio
+- [x] Update Personal Porfolio
+- [x] Pin Repository
