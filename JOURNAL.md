@@ -11,8 +11,8 @@
 ### Feb 2026
 - [x] Update Github Profile
 - [x] Completed CS50X Problem set 0 (Scratch).
-- [x] Reached CS50X Problem set 1 (C).
-- [ ] Complete CS50X Problem set 2 (Arrays).
+- [x] Completed CS50X Problem set 1 (C).
+- [x] Reached CS50X Problem set 2 (Arrays).
 - [ ] Complete CS50X Problem set 3 (Algorithms).
 - [ ] Complete CS50X Problem set 4 (Memory).
 - [ ] Complete CS50X Problem set 5 (Data Structures).
