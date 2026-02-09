@@ -34,3 +34,15 @@
 - [x] Update Personal Porfolio
 - [x] Pin Repository
 - [ ] Improve Portfolio
+
+
+##Major task 3
+- [x] Start Building Nust VC Website
+- [x] Build Homepage
+- [ ] Build Schedule Page
+- [ ] Build Roster Page
+- [ ] Build Gallary Page
+- [ ] Build History Page
+- [ ] Fix Bugs
+- [ ] Share With The Committee
+- [ ] Get Review Make Improvements
