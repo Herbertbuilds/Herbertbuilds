@@ -39,7 +39,8 @@
 ##Major task 3
 - [x] Start Building Nust VC Website
 - [x] Build Homepage
-- [ ] Build Schedule Page
+- [x] Build Schedule Page
+- [ ] Add A README
 - [ ] Build Roster Page
 - [ ] Build Gallary Page
 - [ ] Build History Page
