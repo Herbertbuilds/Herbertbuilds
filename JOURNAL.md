@@ -40,10 +40,12 @@
 - [x] Start Building Nust VC Website
 - [x] Build Homepage
 - [x] Build Schedule Page
-- [ ] Add A README
+- [x] Add A README
 - [ ] Build Roster Page
 - [ ] Build Gallary Page
 - [ ] Build History Page
+- [ ] Build Activity Page
+- [ ] BUild Club Info Page
 - [ ] Fix Bugs
 - [ ] Share With The Committee
 - [ ] Get Review Make Improvements
