@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Herbert
+# 👋 Hi, I'm Herbert Jantjies
 
 **🏃‍♂️Student Athlete | Aspiring Software Developer | Linux Enthusiast | CS50P Graduate🎓**
 
