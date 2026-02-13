@@ -41,11 +41,11 @@
 - [x] Build Homepage
 - [x] Build Schedule Page
 - [x] Add A README
-- [ ] Build Roster Page
+- [x] Build Roster Page
 - [ ] Build Gallary Page
 - [ ] Build History Page
-- [ ] Build Activity Page
-- [ ] BUild Club Info Page
+- [x] Build Activity Page
+- [x] Build Club Info Page
 - [ ] Fix Bugs
-- [ ] Share With The Committee
+- [ ] Share With The Teams Committee
 - [ ] Get Review Make Improvements
