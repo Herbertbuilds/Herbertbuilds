@@ -43,9 +43,10 @@
 - [x] Add A README
 - [x] Build Roster Page
 - [ ] Build Gallary Page
-- [ ] Build History Page
+- [x] Build History Page
 - [x] Build Activity Page
 - [x] Build Club Info Page
 - [ ] Fix Bugs
-- [ ] Share With The Teams Committee
-- [ ] Get Review Make Improvements
+- [x] Share With The Teams Committee
+- [x] Get Review Make Improvements
+- [ ] Add Responsiveness for smaller devices
