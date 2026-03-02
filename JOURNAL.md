@@ -13,6 +13,32 @@
 - [x] Completed CS50X Problem set 0 (Scratch).
 - [x] Completed CS50X Problem set 1 (C).
 - [x] Reached CS50X Problem set 2 (Arrays).
+
+##Sub task
+- [x] Push CS50P Final Project
+- [x] Add README
+
+
+##Sub task 2
+- [x] Add A README To Personal Portfolio
+- [x] Update Personal Porfolio
+- [x] Pin Repository
+
+
+
+##Major task 3
+- [x] Start Building Nust VC Website
+- [x] Build Homepage
+- [x] Build Schedule Page
+- [x] Add A README
+- [x] Build Roster Page
+- [x] Build History Page
+- [x] Build Activity Page
+- [x] Build Club Info Page
+- [x] Share With The Teams Committee
+- [x] Get Review Make Improvements
+
+### Mar 2026
 - [ ] Complete CS50X Problem set 3 (Algorithms).
 - [ ] Complete CS50X Problem set 4 (Memory).
 - [ ] Complete CS50X Problem set 5 (Data Structures).
@@ -23,30 +49,14 @@
 - [ ] Complete CS50X Problem set 9 (Flask).
 - [ ] Complete CS50X Problem set 10 (End).
 
-##Sub task
-- [x] Push CS50P Final Project
-- [x] Add README
+##Sub task Pivot
 - [ ] Add Features For v1.1.0
 
 
 ##Sub task 2
-- [x] Add A README To Personal Portfolio
-- [x] Update Personal Porfolio
-- [x] Pin Repository
 - [ ] Improve Portfolio
 
 
-##Major task 3
-- [x] Start Building Nust VC Website
-- [x] Build Homepage
-- [x] Build Schedule Page
-- [x] Add A README
-- [x] Build Roster Page
+##Major task Nust VC 3
 - [ ] Build Gallary Page
-- [x] Build History Page
-- [x] Build Activity Page
-- [x] Build Club Info Page
-- [ ] Fix Bugs
-- [x] Share With The Teams Committee
-- [x] Get Review Make Improvements
-- [ ] Add Responsiveness for smaller devices
+- [ ] Add Admin Details
