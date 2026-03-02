@@ -11,21 +11,21 @@
 - [ ] Complete CS50X Problem set 9 (Flask).
 - [ ] Complete CS50X Problem set 10 (End).
 
-##Sub task Pivot
+## Sub task Pivot
 - [ ] Add Features For v1.1.0
 
 
-##Sub task 2
+## Sub task 2
 - [ ] Improve Portfolio
 
 
-##Major task Nust VC 3
+## Major task Nust VC 3
 - [ ] Build Gallary Page
 - [ ] Add Admin Details
 
 
 
-###Previous Months
+### Previous Months
 
 ## Jan 2026
 - [x] Updated GitHub Profile README.
@@ -41,19 +41,19 @@
 - [x] Completed CS50X Problem set 1 (C).
 - [x] Reached CS50X Problem set 2 (Arrays).
 
-##Sub task
+## Sub task
 - [x] Push CS50P Final Project
 - [x] Add README
 
 
-##Sub task 2
+## Sub task 2
 - [x] Add A README To Personal Portfolio
 - [x] Update Personal Porfolio
 - [x] Pin Repository
 
 
 
-##Major task 3
+## Major task 3
 - [x] Start Building Nust VC Website
 - [x] Build Homepage
 - [x] Build Schedule Page
