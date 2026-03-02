@@ -1,6 +1,33 @@
 #  Dev Journal
 
-### Jan 2026
+### Mar 2026
+- [ ] Complete CS50X Problem set 3 (Algorithms).
+- [ ] Complete CS50X Problem set 4 (Memory).
+- [ ] Complete CS50X Problem set 5 (Data Structures).
+- [ ] Complete CS50X Problem set 6 (Python).
+- [ ] Complete CS50X Problem set 7 (SQL).
+- [ ] Complete CS50X Problem set  (AI).
+- [ ] Complete CS50X Problem set 8 (HTML,CSS,Java Script).
+- [ ] Complete CS50X Problem set 9 (Flask).
+- [ ] Complete CS50X Problem set 10 (End).
+
+##Sub task Pivot
+- [ ] Add Features For v1.1.0
+
+
+##Sub task 2
+- [ ] Improve Portfolio
+
+
+##Major task Nust VC 3
+- [ ] Build Gallary Page
+- [ ] Add Admin Details
+
+
+
+###Previous Months
+
+## Jan 2026
 - [x] Updated GitHub Profile README.
 - [x] Completed CS50P Problem Set 5 (Unit Tests).
 - [x] Completed CS50P Problem Set 6 (File I/O).
@@ -37,26 +64,3 @@
 - [x] Build Club Info Page
 - [x] Share With The Teams Committee
 - [x] Get Review Make Improvements
-
-### Mar 2026
-- [ ] Complete CS50X Problem set 3 (Algorithms).
-- [ ] Complete CS50X Problem set 4 (Memory).
-- [ ] Complete CS50X Problem set 5 (Data Structures).
-- [ ] Complete CS50X Problem set 6 (Python).
-- [ ] Complete CS50X Problem set 7 (SQL).
-- [ ] Complete CS50X Problem set  (AI).
-- [ ] Complete CS50X Problem set 8 (HTML,CSS,Java Script).
-- [ ] Complete CS50X Problem set 9 (Flask).
-- [ ] Complete CS50X Problem set 10 (End).
-
-##Sub task Pivot
-- [ ] Add Features For v1.1.0
-
-
-##Sub task 2
-- [ ] Improve Portfolio
-
-
-##Major task Nust VC 3
-- [ ] Build Gallary Page
-- [ ] Add Admin Details
