@@ -29,8 +29,8 @@ I am a 3rd-year Computer Science student at the Namibian University of Science a
 
 * **[Pivot](https://github.com/Herbertbuilds/Pivot)**: A Python CLI finance manager for transaction logging and budget tracking.
 * **[Personal Portfolio](https://herbertbuilds.github.io/)**: A responsive site built with modern web standards to showcase my dev journey.
-* **[Nust Volleyball Clubs Website](https://github.com/Herbertbuilds/Volleyball_Website)**:(Current project) I am building a website for my volleyball team follow my progress by checking out my journal.
-* **[Youtube Design](https://github.com/Herbertbuilds/youtube_design)**:(Current project) I will be building youtube design to shapern my **HTML** and **CSS** skills
+* **[Nust Volleyball Clubs Website](https://github.com/Herbertbuilds/Volleyball_Website)**: (Current project) I am building a website for my volleyball team follow my progress by checking out my journal.
+* **[Youtube Design](https://github.com/Herbertbuilds/youtube_design)**: (Current project) I will be building youtube design to shapern my **HTML** and **CSS** skills
 
 
 ### 🚀 Quick Links
