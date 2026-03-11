@@ -20,8 +20,8 @@
 
 
 ## Major task Nust VC 3
-- [ ] Build Gallary Page
-- [ ] Add Admin Details
+- [ ] Build Results Page
+- [ ] Add Admin Functionality
 
 
 
