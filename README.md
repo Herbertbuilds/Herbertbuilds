@@ -35,7 +35,6 @@ I am a 3rd-year Computer Science student at the Namibian University of Science a
 ### 🚀 Quick Links
 
 * **🌐 Portfolio:** [herbertbuilds.github.io](https://herbertbuilds.github.io/)
-* **📝 Journal:** [Daily Dev Log](JOURNAL.md)
 * **🤝 Connect:** [LinkedIn](https://www.linkedin.com/in/herbert-jantjies-78a47026a/) | [Email](mailto:herbertbuilds@gmail.com)
 
 #
