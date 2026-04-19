@@ -19,7 +19,7 @@ I am a 3rd-year Computer Science student at the Namibian University of Science a
 
 
 #### 📈 Current Progress
-* **Learning:** CS50X(Progress can be seen in my journal) 
+* **Learning:** CS50X
 * **Focus:** Learning & Building solutions using coding techniques I learn.
 * **IDEs:** VS Codium.
 * **OS:** Cachy OS.
