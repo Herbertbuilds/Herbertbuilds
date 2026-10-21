@@ -1,52 +1,69 @@
-# 👋 Hi, I'm Herbert Jantjies
-
-**🏃‍♂️Student Athlete | Aspiring Software Developer | Linux Enthusiast | CS50P Graduate🎓**
-
-I am a 3rd-year Computer Science student at the Namibian University of Science and Technology, specializing in Software Development. As a Linux enthusiast (currently rocking MX Linux), I spend my time mastering Python and building efficient, scalable software.
-
----
-
-### 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MX_Linux-white?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://www.gitskins.com/api/section/hero?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds hero visual" />
 </p>
 
+<p align="center"><b>Herbert Jantjies</b> · Frontend or full-stack engineer<br/><sub>Software Developer | Python Developer</sub></p>
 
-#### 📈 Current Progress
-* **Learning:** CS50X
-* **Focus:** Learning & Building solutions using coding techniques I learn.
-* **IDEs:** VS Codium.
-* **OS:** Cachy OS.
-
----
-
-### 📂 Top Projects
-
-* **[Pivot](https://github.com/Herbertbuilds/Pivot)**: A Python CLI finance manager for transaction logging and budget tracking.
-* **[Personal Portfolio](https://herbertbuilds.github.io/)**: A responsive site built with modern web standards to showcase my dev journey.
-* **[Nust Volleyball Clubs Website](https://nust-volleyball-club.pages.dev)**: (Current project) I am building a website for my volleyball team follow my progress by checking out my journal.
+<p align="center"><a href="https://github.com/herbertbuilds">GitHub</a> · <a href="https://herbertbuilds.github.io/">Website</a></p>
 
 
-### 🚀 Quick Links
+<details open>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-* **🌐 Portfolio:** [herbertbuilds.github.io](https://herbertbuilds.github.io/)
-* **🤝 Connect:** [LinkedIn](https://www.linkedin.com/in/herbert-jantjies-78a47026a/) | [Email](mailto:herbertbuilds@gmail.com)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=herbertbuilds&theme=neon" alt="herbertbuilds contribution activity" />
+</p>
 
-#
+</details>
+
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds projects visual" />
+</p>
+
+- [Pivot](https://github.com/Herbertbuilds/Pivot) · ★ 0 — A lightweight, terminal-based personal finance tracker built with Python and CSV.
+- [study-buddy](https://github.com/Herbertbuilds/study-buddy) · ★ 0 — Chrome MV3 extension that answers quiz and online questions
+- [OMA](https://github.com/Herbertbuilds/OMA) · ★ 0
+- [Herbertbuilds.github.io](https://github.com/Herbertbuilds/Herbertbuilds.github.io) · ★ 0 — Interactive personal portfolio featuring a custom HTML5 Canvas particle system, sleek glassmorphism 
+- [Herbertbuilds](https://github.com/Herbertbuilds/Herbertbuilds) · ★ 0
+
+</details>
 
 <details>
-<summary><b>🏅 Beyond the Code: Life as a Student-Athlete</b></summary>
-<br>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
-Balancing **Volleyball**, 3rd-year CS studies, and online courses like **CS50** requires high level time management. I apply the same discipline, from the persistent training that keeps me in the starting lineup to the strategic thinking required on the court, to how I debug code and architect software. I believe there are always multiple ways to solve a problem, and I strive to find the most efficient one.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds stack visual" />
+</p>
 
-* **Volleyball:** Teaches me communication and performing under pressure.
-* **Academics:** Sharpens my logic and technical foundation.
-* **Self-Learning:** Demonstrates my drive to stay current in the tech world.
 </details>
+
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
+
+<b>5</b> public repositories, <b>0</b> stars, <b>375</b> contributions in the last year, a longest streak of <b>8</b> days and <b>1</b> followers.
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds stats visual" />
+</p>
+
+</details>
+
+
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds social visual" />
+</p>
+
+</details>
+
+<p align="center"><sub>Herbert Jantjies · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
