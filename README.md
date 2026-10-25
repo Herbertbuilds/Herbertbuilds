@@ -26,10 +26,8 @@
 </p>
 
 - [Pivot](https://github.com/Herbertbuilds/Pivot) · ★ 0 — A lightweight, terminal-based personal finance tracker built with Python and CSV.
-- [study-buddy](https://github.com/Herbertbuilds/study-buddy) · ★ 0 — Chrome MV3 extension that answers quiz and online questions
-- [OMA](https://github.com/Herbertbuilds/OMA) · ★ 0
+- [study-buddy](https://github.com/Herbertbuilds/study-buddy) · ★ 1 — Chrome MV3 extension that answers quiz and online questions
 - [Herbertbuilds.github.io](https://github.com/Herbertbuilds/Herbertbuilds.github.io) · ★ 0 — Interactive personal portfolio featuring a custom HTML5 Canvas particle system, sleek glassmorphism 
-- [Herbertbuilds](https://github.com/Herbertbuilds/Herbertbuilds) · ★ 0
 
 </details>
 
