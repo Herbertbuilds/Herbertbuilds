@@ -7,7 +7,8 @@
 ```ansi
 herbert@windhoek:~$ cat now.txt
 
-  role      Software Development student, NUST (class of 2027)
+  role      Software Development student, NUST (class of 2026
+)
   writes    Python · JavaScript · HTML/CSS
   builds    CLI tools, browser extensions, creative web
 ```
