@@ -1,67 +1,33 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds hero visual" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00ff9c,100:0d1117&text=Herbert%20Jantjies&fontColor=0d1117&fontSize=48&fontAlign=50&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Python%20%C2%B7%20Web&descSize=18&descAlignY=60" width="100%" alt="header" />
 
-<p align="center"><b>Herbert Jantjies</b> · Frontend or full-stack engineer<br/><sub>Software Developer | Python Developer</sub></p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=600&lines=ship+small.+ship+often.;3rd-year+CS+%40+NUST+%C2%B7+Windhoek" alt="typing" />
+</div>
 
-<p align="center"><a href="https://github.com/herbertbuilds">GitHub</a> · <a href="https://herbertbuilds.github.io/">Website</a></p>
+```ansi
+herbert@windhoek:~$ cat now.txt
 
+  role      Software Development student, NUST (class of 2027)
+  writes    Python · JavaScript · HTML/CSS
+  builds    CLI tools, browser extensions, creative web
+  seeking   WIL internship
+```
 
-<details open>
-<summary><b>🟩 Activity</b></summary>
+```ansi
+herbert@windhoek:~$ ls projects/
+
+  Pivot/              terminal finance tracker, pure Python + CSV
+  study-buddy/        Chrome MV3 extension that answers quiz questions
+  grade-calculator/   grade tracker with a What-If solver, vanilla JS
+  portfolio/          HTML5 Canvas particles + glassmorphism
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github&theme=dark" alt="stack" />
+
 <br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=herbertbuilds&theme=neon" alt="herbertbuilds contribution activity" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,100:00ff9c&section=footer" width="100%" alt="footer" />
 
-</details>
-
-<details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds projects visual" />
-</p>
-
-- [Pivot](https://github.com/Herbertbuilds/Pivot) · ★ 0 — A lightweight, terminal-based personal finance tracker built with Python and CSV.
-- [study-buddy](https://github.com/Herbertbuilds/study-buddy) · ★ 1 — Chrome MV3 extension that answers quiz and online questions
-- [Herbertbuilds.github.io](https://github.com/Herbertbuilds/Herbertbuilds.github.io) · ★ 0 — Interactive personal portfolio featuring a custom HTML5 Canvas particle system, sleek glassmorphism 
-
-</details>
-
-<details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds stack visual" />
-</p>
-
-</details>
-
-<details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
-
-<b>5</b> public repositories, <b>0</b> stars, <b>375</b> contributions in the last year, a longest streak of <b>8</b> days and <b>1</b> followers.
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds stats visual" />
-</p>
-
-</details>
-
-
-<details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=herbertbuilds&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178770569%3Fu%3D3ceca273ad340a9e983243ca496b2bfb65f8bb1a%26v%3D4" alt="herbertbuilds social visual" />
-</p>
-
-</details>
-
-<p align="center"><sub>Herbert Jantjies · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
