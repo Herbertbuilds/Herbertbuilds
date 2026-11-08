@@ -10,7 +10,6 @@ herbert@windhoek:~$ cat now.txt
   role      Software Development student, NUST (class of 2027)
   writes    Python · JavaScript · HTML/CSS
   builds    CLI tools, browser extensions, creative web
-  seeking   WIL internship
 ```
 
 ```ansi
