@@ -20,6 +20,7 @@ herbert@windhoek:~$ ls projects/
   study-buddy/        Chrome MV3 extension that answers quiz questions
   grade-calculator/   grade tracker with a What-If solver, vanilla JS
   portfolio/          HTML5 Canvas particles + glassmorphism
+  leaf/               Light weight document reader
 ```
 
 <div align="center">
